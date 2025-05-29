@@ -1,5 +1,5 @@
 
-# 🦙📄 LLaMA 3 Text Summarizer (TXT + PDF)
+# 📄Text Summarizer using Local LLM
 
 A lightweight, local-first application that summarizes `.txt` or `.pdf` files using **Meta’s LLaMA 3 model** running through **Ollama**, orchestrated via **LangChain**, and wrapped in an elegant **Streamlit UI**.
 
@@ -20,7 +20,7 @@ This app runs entirely on your machine — no API keys required, no cloud depend
 
 ## 🖥️ Demo Screenshot
 
-![App Screenshot](./screenshots/screenshot.png)
+![App Screenshot](./screenshots/app_demo.jpg)
 
 ---
 
